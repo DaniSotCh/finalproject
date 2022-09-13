@@ -1,0 +1,20 @@
+
+Y
+java:S2629"7Use the built-in formatting to construct this argument.(Ç¦±ªúÿÿÿÿ8·§ÄÇ³0
+Y
+java:S2629""7Use the built-in formatting to construct this argument.(ß‘²‡úÿÿÿÿ8·§ÄÇ³0
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ì…³¿øÿÿÿÿ
+i	java:S116"NRename this field "Url" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Àãž
+8À§ÄÇ³0
+c
+java:S3457"AFormat specifiers should be used instead of string concatenation.(Ç¦±ªúÿÿÿÿ8Å§ÄÇ³0
+^
+java:S3457"AFormat specifiers should be used instead of string concatenation.(ºÿ¿›8Æ§ÄÇ³0
+^
+java:S3457"AFormat specifiers should be used instead of string concatenation.(‘ÅñÛ8Ç§ÄÇ³0
+^
+java:S3457"AFormat specifiers should be used instead of string concatenation.(£Ïòû8É§ÄÇ³0
+c
+java:S3457""AFormat specifiers should be used instead of string concatenation.(ß‘²‡úÿÿÿÿ8Ë§ÄÇ³0
+^
+java:S3457&"AFormat specifiers should be used instead of string concatenation.(£Ïòû8Ë§ÄÇ³0
